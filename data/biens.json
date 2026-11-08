@@ -1,0 +1,172 @@
+[
+  {
+    "nom": "Bien 2 appartements 25 rue Hermel",
+    "lien": "n/q",
+    "notes": "",
+    "arrondissement": 18,
+    "surface": 72.0,
+    "etage": 4,
+    "ascenseur": true,
+    "dernier_etage": false,
+    "immeuble": "Ancien standard (avant 1950)",
+    "etat": "À rénover entièrement",
+    "dpe": "E",
+    "luminosite": "Lumineuse",
+    "nuisances": "Très calme (cour, rue calme)",
+    "exterieur": "Aucun",
+    "cave": true,
+    "parking": false,
+    "prix": 639000.0,
+    "a_une_offre": false,
+    "prix_vise": 0.0,
+    "travaux": 90000.0,
+    "charges_connues": true,
+    "charges": 4800.0,
+    "taxe_connue": true,
+    "taxe": 1586.0,
+    "checklist": [
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      },
+      {
+        "statut": "À faire",
+        "notes": ""
+      }
+    ],
+    "id": "eb20d8e9-90ed-43c9-8f69-c7dce73c8e60",
+    "cree_le": "2026-11-08"
+  }
+]

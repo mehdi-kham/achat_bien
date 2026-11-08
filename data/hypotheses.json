@@ -1,0 +1,148 @@
+{
+  "droit_dept": 0.05,
+  "taxe_communale": 0.012,
+  "frais_assiette": 0.023700000000000002,
+  "tva_emoluments": 0.2,
+  "debours": 1200.0,
+  "csi": 0.001,
+  "emol_seuils": [
+    6500.0,
+    17000.0,
+    60000.0
+  ],
+  "emol_taux": [
+    0.0387,
+    0.01596,
+    0.01064,
+    0.00799
+  ],
+  "charges_m2": 40.0,
+  "taxe_m2": 25.0,
+  "assurance_habitation": 300.0,
+  "entretien_pct": 0.003,
+  "provision_copro_pct": 0.002,
+  "energie_mois": 150.0,
+  "loyer_m2": 30.0,
+  "garantie_pct": 0.01,
+  "frais_dossier": 1000.0,
+  "frais_courtage": 0.0,
+  "valeur_cave": 5000.0,
+  "valeur_local_velo": 2000.0,
+  "valeur_parking": 30000.0,
+  "fourchette": 0.05,
+  "seuil_sous_marche": -0.05,
+  "seuil_coherent": 0.03,
+  "seuil_negociable": 0.08,
+  "coef_dernier_asc": 0.03,
+  "coef_dernier_sans": 0.0,
+  "part_charges_locataire": 0.6,
+  "assurance_locataire": 150.0,
+  "hausse_immo": 0.015,
+  "hausse_loyers": 0.02,
+  "inflation_charges": 0.025,
+  "rendement_epargne": 0.03,
+  "frais_revente": 0.1,
+  "horizon_annees": 25,
+  "prix_m2": {
+    "1": 13000.0,
+    "2": 11700.0,
+    "3": 12200.0,
+    "4": 13100.0,
+    "5": 12200.0,
+    "6": 15700.0,
+    "7": 15400.0,
+    "8": 13100.0,
+    "9": 10900.0,
+    "10": 9300.0,
+    "11": 9900.0,
+    "12": 9100.0,
+    "13": 8800.0,
+    "14": 9600.0,
+    "15": 9600.0,
+    "16": 11400.0,
+    "17": 10200.0,
+    "18": 9100.0,
+    "19": 8200.0,
+    "20": 8400.0
+  },
+  "etage_avec": [
+    -0.08,
+    -0.03,
+    0.0,
+    0.02,
+    0.04,
+    0.06,
+    0.07,
+    0.08
+  ],
+  "etage_sans": [
+    -0.1,
+    -0.04,
+    -0.02,
+    -0.01,
+    -0.04,
+    -0.08,
+    -0.12,
+    -0.15
+  ],
+  "coef_surface": [
+    [
+      0.0,
+      0.08
+    ],
+    [
+      25.0,
+      0.03
+    ],
+    [
+      40.0,
+      0.0
+    ],
+    [
+      70.0,
+      -0.02
+    ],
+    [
+      100.0,
+      -0.03
+    ]
+  ],
+  "coef_etat": {
+    "À rénover entièrement": -0.15,
+    "À rafraîchir": -0.06,
+    "Bon état": 0.0,
+    "Rénové / refait à neuf": 0.05
+  },
+  "coef_dpe": {
+    "A": 0.04,
+    "B": 0.03,
+    "C": 0.01,
+    "D": 0.0,
+    "E": -0.03,
+    "F": -0.08,
+    "G": -0.12
+  },
+  "coef_lumiere": {
+    "Sombre / sur cour étroite": -0.06,
+    "Normale": 0.0,
+    "Lumineuse": 0.03,
+    "Très lumineuse / traversante / vue dégagée": 0.06
+  },
+  "coef_bruit": {
+    "Bruyant (rue passante, bar, voie ferrée)": -0.05,
+    "Normal": 0.0,
+    "Très calme (cour, rue calme)": 0.03
+  },
+  "coef_exterieur": {
+    "Aucun": 0.0,
+    "Petit balcon / loggia": 0.04,
+    "Grand balcon / terrasse": 0.08,
+    "Jardin privatif": 0.1
+  },
+  "coef_immeuble": {
+    "Pierre de taille / haussmannien": 0.03,
+    "Ancien standard (avant 1950)": 0.0,
+    "Années 1950-1980": -0.04,
+    "Récent (après 1990)": 0.02
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "apport": 320000.0,
+  "mensualite_cible": 2600.0,
+  "inclut_assurance": false,
+  "taux_20": 0.0335,
+  "taux_25": 0.0355,
+  "duree_retenue": 20,
+  "revenus": 0.0,
+  "autres_credits": 0.0,
+  "assurance": 0.003,
+  "mobilier": 0.0,
+  "agence_pct": 0.0,
+  "endettement_max": 0.35,
+  "loyer_actuel": 1900.0
+}
